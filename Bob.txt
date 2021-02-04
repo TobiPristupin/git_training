@@ -1,3 +1,1 @@
-Someone in another branch also changed this file
-changed file
-new text
+After merge conflict
