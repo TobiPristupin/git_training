@@ -1,2 +1,2 @@
-changed file
+changed file. This will cause a merge conflict.
 new text
