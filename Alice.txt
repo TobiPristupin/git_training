@@ -1,6 +1,1 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
-New line on Alice
-=======
-Made a change in remote repo
->>>>>>> 26189bd5cf8ea2d502f79f37c884d91484c56d24
+CHanging in remote repo
